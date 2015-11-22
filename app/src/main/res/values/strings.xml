@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FontAwesome</string>
+
+
+    <string name="fa_icon_android">&#xf17b;</string>
+
+</resources>
